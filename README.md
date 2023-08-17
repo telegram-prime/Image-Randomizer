@@ -48,7 +48,8 @@
  - [Always Latest Release](https://github.com/telegram-prime/image-randomizer/releases/latest)
 
 
-## [YouTube Video](https://youtu.be/FdYot5p0svs)
+## Video Guide
+ - [YouTube](https://youtu.be/FdYot5p0svs)
 
 
 ## Screenshots:
