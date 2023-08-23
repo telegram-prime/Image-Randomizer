@@ -1,9 +1,9 @@
-# RNDR - This is the Image Randomizing tool.
+# PRND - This is the Image Randomizing tool.
 ## Ideal for individuals who want to dispatch bulk direct messages, for instance, sending mass DMs to SMM.
 ## Also for those keen on reaching a larger audience, sending mass DMs via Telegram PRIME is the perfect solution.
  
- * Описание программы так же доступно на русском языке. См. [RNDR - Image Randomizer RUS](https://github.com/telegram-prime/image-randomizer-RU)
- * 描述也可以在Chineese中提供。 参见 [RNDR - Image Randomizer CN](https://github.com/telegram-prime/image-randomizer-CN)
+ * Описание программы так же доступно на русском языке. См. [PRND - Image Randomizer RUS](https://github.com/telegram-prime/image-randomizer-RU)
+ * 描述也可以在Chineese中提供。 参见 [PRND - Image Randomizer CN](https://github.com/telegram-prime/image-randomizer-CN)
 
 ## Functionality:
  - Support for Main Image Formats:
