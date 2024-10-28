@@ -39,8 +39,8 @@
 ### - Request for a demo key button is located inside the software.
 
 ## After trial period ended this product is available under several paid subscriptions: 
-- License: Starter    - 10'000 randomized images
-- License: Advanced   - 20'000 randomized images
+- License: Monthly    - 20'000 randomized images
+- License: Annual     - 50'000 randomized images
 - License: Permanent  - Lifetime with Unlimited number of randomized imaged.
 
 
@@ -54,21 +54,20 @@
 
 ## Screenshots:
 
-![RNDR_v 1 3_EN_001](https://github.com/telegram-prime/image-randomizer/assets/94137664/4408b30a-5dc7-4ef7-9b6c-b56f9f2214a1)
-![RNDR_v 1 3_EN_002](https://github.com/telegram-prime/image-randomizer/assets/94137664/0ed74180-7480-4570-a1f7-b05c610bd555)
-![RNDR_v 1 3_EN_003](https://github.com/telegram-prime/image-randomizer/assets/94137664/84eb65a4-bc8c-4b17-b088-ba0af135601b)
-![RNDR_v 1 3_EN_004](https://github.com/telegram-prime/image-randomizer/assets/94137664/7c1b4912-dc6f-4345-b5c0-473f4eb440bb)
+<img src="https://github.com/user-attachments/assets/0c3b321c-5c0e-4241-8dbe-24befda24b39" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/ecf14a86-30c6-4f77-912a-ce9a20ee52e3" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/c91322f8-c063-46f3-9cf5-e94ff1503725" width="200" height="200">
 
 
 ##  Contacts:
-- Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
-- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
-
-* or via the Contact Form on our Telegram PRIME website:
 - Wеb: https://telegramprime.net/ - EN Version
 - Wеb: https://telegramprime.com/ - RU Version
+
+- Email:    manager[@]telegramprime.net
+- Telegram: [Send message](https://telegramprime.net/telegram-contact)
+- TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
+- Discord:  [Send message](https://telegramprime.net/discord-contact)
+- Element:  [Send message](https://telegramprime.net/element-contact)
 
 
 ## Donations:
